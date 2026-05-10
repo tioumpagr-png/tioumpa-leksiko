@@ -340,5 +340,11 @@
 Ατάκα113: Κάτωθεν +επίρρημα
 Περιγραφή: Κάτω. (αντ. Άνωθεν)
 
-Ατάκα114: επικρωτώ
+Ατάκα114: επικρωτώ +ρήμα
 Περιγραφή: Συμφωνώ απόλυτα με μια ενέργεια, απόφαση ή άποψη, επιδοκιμάζοντας την και δηλώνοντας έμπρακτα την υποστήριξή μου. Συνώνυμο του ¨χειροκροτώ"
+
+Ατάκα115: Έλα χριθτέ και απόθτολε +ατάκα
+Περιγραφή: Ατάκα του Γρηγόρη Κόκκινου και του Κωστή Ραπτόπουλου.
+
+Ατάκα116: Θα σε πάρω να φύγουμε, σ' άλλη γη σ' άλλα μέρη, που κανέναν δεν ξέρουμε, και κανείς δε μας ξέρει +τραγούδι'
+Περιγραφή: Προέρχεται από το τραγούδι "Θα σε πάρω να φύγουμε" της Μαρινέλλας: <iframe width="560" height="315" src="https://www.youtube.com/embed/NQZjIvZWls8?si=AHd0kUXLwcP0i0Hy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
